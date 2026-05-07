@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "ws3-fca": "rodell0110/fca-priyansh",
+    "ws3-fca": "npm:@priyanshu-fca/ws3-fca@latest"
     "fs-extra": "^11.1.0"
   }
 }
