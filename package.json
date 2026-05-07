@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ws3-fca": "npm:@priyanshu-fca/ws3-fca@latest",
+    "fca-priyansh": "^16.0.0",
     "fs-extra": "^11.1.0"
   },
   "engines": {
