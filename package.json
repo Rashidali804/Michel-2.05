@@ -2,8 +2,14 @@
   "name": "bot",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "ws3-fca": "npm:@priyanshu-fca/ws3-fca@latest"
+    "ws3-fca": "npm:@priyanshu-fca/ws3-fca@latest",
     "fs-extra": "^11.1.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
