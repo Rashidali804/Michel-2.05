@@ -1,27 +1,9 @@
 {
-  "name": "michel-2.0-bot",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "Michel 2.0 - Facebook Bot by Rashid Ali",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [
-    "facebook-bot",
-    "fca", 
-    "michel-2.0",
-    "rashid-ali"
-  ],
-  "author": "Rashid Ali",
-  "license": "MIT",
   "dependencies": {
-    "ws3-fca": "latest",
-    "fs-extra": "^11.2.0",
-    "yt-search": "^2.12.1",
-    "@distube/ytdl-core": "^4.15.5",
-    "axios": "^1.7.7"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "ws3-fca": "rodell0110/fca-priyansh",
+    "fs-extra": "^11.1.0"
   }
 }
