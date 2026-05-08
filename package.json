@@ -1,9 +1,9 @@
 {
   "name": "fb-bot",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": { "start": "node index.js" },
   "dependencies": {
-    "fca-priyansh": "2.0.4",
-    "fs-extra": "11.1.0"
+    "fca-priyansh": "2.6.2",
+    "fs-extra": "^11.2.0"
   }
 }
